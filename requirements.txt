@@ -1,0 +1,7 @@
+# Run the requirements.txt in terminal/cmd = pip install -r requirements.txt
+pyautogui
+wikipedia
+pyperclip
+pynput
+keyboard
+requests
